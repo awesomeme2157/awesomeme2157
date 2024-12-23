@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Raj Mhetar</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 📫 How to reach me **rajmhetar007@gmail.com**
+- 📫 How to reach me - **rajmhetar007@gmail.com**
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1f76XStz27OHGJlbEFFkUz5KvY3FmMXRP/view?usp=drive_link)
 
-- ⚡ Fun fact **I don't know. You tell me!!**
+- ⚡ Fun fact - **I don't know. You tell me!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
